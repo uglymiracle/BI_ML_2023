@@ -1,0 +1,11 @@
+## Machine learning 2023
+### Homework 1
+
+In this homework  machine learning algorithm, K-Nearest Neighbors, was implemented from scratch. 
+Tasks were solved:
+- binary classification
+- multiclass classification
+- regression
+- selection of optimal hyperparameter
+
+Classification metrics are also implemented from scratch in the task
